@@ -24,15 +24,22 @@
 
 ## 📊 GitHub Stats  
 
+  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrjoaocosta21&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjoaocosta21&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=mrjoaocosta21&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=mrjoaocosta21&layout=compact&theme=radical&count_private=true">  
 </div>
 
 ---
 
 ## 📫 Contato  
 
-- 💼 [LinkedIn]() 
-- 📧 **joaovclvds@gmail.com**  
+<div align="center">        
+    <a href="https://www.linkedin.com/in//" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:joaovclvds@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+</div> 
 
