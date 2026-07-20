@@ -36,7 +36,7 @@
 
 <div align="center">        
     <a href="linkedin.com/in/joão-vitor-virgínio-da-silva-2a7092218/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="linkedin.com/in/joão-vitor-costa-virgínio-da-silva-2a7092218">
     </a>
     <a href="mailto:joaovclvds@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
